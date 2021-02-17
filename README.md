@@ -3,9 +3,9 @@
 
 ---
 # Установка  
- 1. Скачать файлы репозитория `git clone`;
+ 1. Скачать файлы репозитория `git clone https://github.com/Toxic17/modalPlagin.git`;
  2. подключить файл script.min.js и style.min.css;
- 3. инициализировать плагин `let res = new modal({options});`
+ 3. инициализировать плагин `let res = new modal({options})`;
  4. создать события.  
 ---
 ## Возможные опции
